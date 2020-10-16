@@ -2,7 +2,7 @@
 
 <p align='center'>
 <!-- Email -->
-  <a href="mailto:jeremyroussel@hey.com?subject=Hello%20Jeremy!"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=hey&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:rmount96@outlook.com?subject=Hello%20Jeremy!"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=hey&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <!--
