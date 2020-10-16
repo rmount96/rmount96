@@ -1,11 +1,16 @@
-### Hi there 👋
+<h1 align='center'> Hi there 👋, I'm Ryan (He / Him) 👨🏻‍💻 </h1>
+
+<p align='center'>
+<!-- Email -->
+  <a href="mailto:jeremyroussel@hey.com?subject=Hello%20Jeremy!"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=hey&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <!--
 **rmount96/rmount96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+<p align='center'>
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
