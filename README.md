@@ -1,11 +1,11 @@
-<h1 align='center'> Hi there 👋, I'm Ryan (He / Him) 👨🏻‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Ryan 👨🏻‍💻 </h1>
 
 <p align='center'>
 
   
 <p align='center'>
   <!-- Ghost Logo -->
-  <a href="https://andressantana.net"><img src="https://img.shields.io/badge/Personal-%23738A94.svg?&style=for-the-badge&logo=ghost&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mountconcepts.com"><img src="https://img.shields.io/badge/Personal-%23738A94.svg?&style=for-the-badge&logo=ghost&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mountryan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Email -->
