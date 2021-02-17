@@ -55,10 +55,8 @@
   </h4>
 </p>
 
-<h5>Other Languages & Technologies</h5>
+<h5>Other Languages</h5>
 <p >
-  <!-- PostgreSQL -->
-  <img src="https://img.shields.io/badge/arduino%20-%2300979d.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <!-- Python -->
   <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
@@ -67,7 +65,7 @@
 <h4>🌱 I'm currently learning...</h4>
 <p >
   <!-- Wordpress -->
-  <img src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=wordpress&logoColor=blue" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/wordpress%20-%23000000.svg?&style=for-the-badge&logo=wordpress&logoColor=blue" />&nbsp;&nbsp;&nbsp;
   <!-- MongoDB -->
   <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
